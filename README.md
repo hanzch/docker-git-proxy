@@ -1,6 +1,6 @@
-# Docker Proxy Installer
+# docker-git-proxy
 
-自动安装脚本,用于部署 [Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
+一键自动部署 Docker Proxy + gh-proxy
 
 ## 快速安装
 
